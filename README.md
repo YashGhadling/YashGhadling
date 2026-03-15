@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Ghadling</h1>
 <h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Tableau • Excel</h3>
 
-<p align="center">
-Turning raw data into meaningful insights 📊
-</p>
-
 ---
 
 ## 👨‍💻 About Me
